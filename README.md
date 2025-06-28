@@ -3,5 +3,13 @@ I have the goal of enrolling in the MSCS program.
 
 4 Classes to focus on: 
 
-
+-CS103:
+  - Attempted to waive due to earning grades in [Intro to Algorithms](https://siebelschool.illinois.edu/academics/courses/cs401-120248).
+-CS107:
+  - https://web.stanford.edu/class/cs107/ ; will take third.
+-CS109:
+  - https://web.stanford.edu/class/cs109/ ; will take first in the sequence.
+-CS161:
+  - https://stanford-cs161.github.io/winter2025/ ; will take second.
+  
 Program overview: https://www.cs.stanford.edu/masters-program-overview
