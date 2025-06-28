@@ -7,6 +7,7 @@ I have the goal of enrolling in the MSCS program.
   - Attempted to waive due to earning grades in [Intro to Algorithms](https://siebelschool.illinois.edu/academics/courses/cs401-120248).
 - CS107:
   - https://web.stanford.edu/class/cs107/ ; will take third.
+    - Supplementing the pre-requisite with [C++ Accelerated CS Fundamentals](https://www.coursera.org/learn/cs-fundamentals-1/lecture/q5Vpx/1-2-c-classes). 
 - CS109:
   - https://web.stanford.edu/class/cs109/ ; will take first in the sequence.
   - Notes:
