@@ -1,4 +1,4 @@
-This repostitory is a path through my graduate journey at Stanford. I initially enrolled in [Stanford's NDO](https://online.stanford.edu/programs/foundations-computer-science-graduate-certificate) There will be a seperate branch for the specific course, which I will share the projects/content in accordance to course/university policy.
+This repostitory is a path through my graduate journey at Stanford. I initially enrolled in [Stanford's NDO](https://online.stanford.edu/programs/foundations-computer-science-graduate-certificate). There will be a seperate branch for the specific course, which I will share the projects/content in accordance to course/university policy.
 I have the goal of enrolling in the MSCS program. 
 
 4 pre-requisite classes to focus on: 
@@ -8,7 +8,7 @@ I have the goal of enrolling in the MSCS program.
 - CS107:
   - https://web.stanford.edu/class/cs107/ ; will take third.
     - Supplementing the pre-requisite with [C++ Accelerated CS Fundamentals](https://www.coursera.org/learn/cs-fundamentals-1/lecture/q5Vpx/1-2-c-classes).
-    - Has midterms you can study off of, [here](https://web.stanford.edu/class/archive/cs/cs107/cs107.1258/exams/midterm.html)
+    - Has midterms you can study off of, [here](https://web.stanford.edu/class/archive/cs/cs107/cs107.1258/exams/midterm.html).
 - CS109:
   - https://web.stanford.edu/class/cs109/ ; will take first in the sequence.
   - Notes:
