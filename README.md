@@ -15,6 +15,7 @@ I have the goal of enrolling in the MSCS program.
     - https://chrispiech.github.io/probabilityForComputerScientists
 - CS161:
   - https://stanford-cs161.github.io/winter2025/ ; will take second.
+  - [Algorithms](https://www.coursera.org/specializations/algorithms) - studying off this
   - Notes:
     - Exam 1 template: https://web.stanford.edu/class/archive/cs/cs161/cs161.1236/Exams/SampleExam1/sample_midterm1_sols.pdf
     - Final template: https://web.stanford.edu/class/archive/cs/cs161/cs161.1236/Exams/SampleExam1/sample_final1.pdf
