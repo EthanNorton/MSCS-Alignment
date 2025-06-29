@@ -13,6 +13,7 @@ I have the goal of enrolling in the MSCS program.
   - https://web.stanford.edu/class/cs109/ ; will take first in the sequence.
   - Notes:
     - https://chrispiech.github.io/probabilityForComputerScientists
+      - Working through the book problems.
 - CS161:
   - https://stanford-cs161.github.io/winter2025/ ; will take second.
   - [Algorithms](https://www.coursera.org/specializations/algorithms) - studying off this
