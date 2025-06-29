@@ -52,3 +52,18 @@ MS&E 193, 231, **234**, 254; POLISCI 150A; PSYCH 215; PUBLPOL 103F
 327A, 328, 329, 330, 331B, 332, 333, 334A (or EE 364A), 336, 341, 345, 368, 369L, 369M, 371, 375,
 377**, 379**, 393**, 395**, 398, 399**, 428; AppPhys 293; EE 263, 276, 278, 364A, 364B, 378B; ENGR
 205, 209A; MS&E 226, 251, 252, 351, 352, 353; PSYCH 209; STATS 202, 315A, 315B
+
+Electives/other paths: 
+
+- EE 282: Computer Systems Architecture
+- GPU/CUDA + AI acceleration	CS149 (CUDA-heavy, practical)
+
+Professors to collaborate with:
+
+Focus Area	Best Professors
+- Low-level GPU architecture	Olukotun, Kozyrakis
+- CUDA + RL robotics	Finn, Liu
+- Distributed GPU systems for ML	Zadeh, Leskovec
+- Multi-agent simulation + RL	Brunskill, Sadigh, Kochenderfer
+
+- Prof. Christos Kozyrakis (EE/CS, MAST Lab)
