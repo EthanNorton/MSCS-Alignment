@@ -43,9 +43,9 @@ MS&E 193, 231, **234**, 254; POLISCI 150A; PSYCH 215; PUBLPOL 103F
 **Bolded show likely classes to take atm**
 
 **Depth** 1. Artificial Intelligence
-a. CS 221
-b. At least four of: CS 223A, 224N, 224S, 224U, 224W, **228**, **229**, 231A, 231N, 234, 237A, 237B, 238
-c. Sufficient depth units from category (b) and the following: CS 205L, 217, 225A, 227B, 229M, 230, 231B,
+- a. CS 221
+- b. At least four of: CS 223A, 224N, 224S, 224U, 224W, **228**, **229**, 231A, 231N, **234**, 237A, 237B, 238
+- c. Sufficient depth units from category (b) and the following: CS 205L, 217, 225A, 227B, 229M, 230, 231B,
 232, 233, 235, 236, 239, 246, 257, 270, 271, 273A, 273B, 274, 275, 276, 279, 294A**, 323, 325, 326,
 327A, 328, 329, 330, 331B, 332, 333, 334A (or EE 364A), 336, 341, 345, 368, 369L, 369M, 371, 375,
 377**, 379**, 393**, 395**, 398, 399**, 428; AppPhys 293; EE 263, 276, 278, 364A, 364B, 378B; ENGR
