@@ -36,7 +36,7 @@ Significant implementation requisite preferred options:
 
 - Area A. Mathematical and Theoretical Foundations: CS 154, 157, 168, 254, 258, **261**, 265, 361; EE 364B; Phil 251
 - Area B. Computer Systems: CS 143, **144**, 242, 243, 244, 244B, 316, 358; EE 180, 282, 284
-- Area C. Applications: CS 145, 147, 148, 155, **221**, 223A, 224N, 224U, 224W, 227B, 228, 229, 229M, 231A, 245,
+- Area C. Applications: CS 145, 147, 148, 155, **221**, 223A, 224N, 224U, **224W**, 227B, 228, 229, 229M, 231A, 245,
 246, 247 (any suffix), 248, 251, 255, 273A, 273B, 279, 348B, 348C, 355, 356, 448B
 - Area D. Computing and Society: CS 181, 182, 384; AMSTUD 133, 145; ANTHRO 132D; COMM 120W, 124, 145, 154, 166,
 186W, 230A, 230B, 230C; DESINST 215, 240; ENGLISH 184D; ENGR 131, 248; HISTORY 244F; LINGUIST 230A; ME 177;
