@@ -7,6 +7,7 @@ I have the goal of enrolling in the MSCS program.
   - Attempted to waive due to earning grades in [Intro to Algorithms](https://siebelschool.illinois.edu/academics/courses/cs401-120248).
 - CS107:
   - https://web.stanford.edu/class/cs107/ ; will take third.
+    - https://web.stanford.edu/class/archive/cs/cs107/cs107.1258/calendar class notes 
     - Supplementing the pre-requisite with [C++ Accelerated CS Fundamentals](https://www.coursera.org/learn/cs-fundamentals-1/lecture/q5Vpx/1-2-c-classes).
     - Has midterms you can study off of, [here](https://web.stanford.edu/class/archive/cs/cs107/cs107.1258/exams/midterm.html).
 - CS109:
@@ -16,7 +17,7 @@ I have the goal of enrolling in the MSCS program.
       - Working through the book problems.
 - CS161:
   - https://stanford-cs161.github.io/winter2025/ ; will take second.
-  - [Algorithms](https://www.coursera.org/specializations/algorithms) - studying off this
+  - [Algorithms](https://www.coursera.org/specializations/algorithms) - studying off this.
   - Notes:
     - Exam 1 template: https://web.stanford.edu/class/archive/cs/cs161/cs161.1236/Exams/SampleExam1/sample_midterm1_sols.pdf
     - Final template: https://web.stanford.edu/class/archive/cs/cs161/cs161.1236/Exams/SampleExam1/sample_final1.pdf
