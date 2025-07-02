@@ -11,6 +11,7 @@ I have the goal of enrolling in the MSCS program.
     - https://stanford.edu/~cgregg/cgi-bin/107-reader/ further reader.
     - Supplementing the pre-requisite with [C++ Accelerated CS Fundamentals](https://www.coursera.org/learn/cs-fundamentals-1/lecture/q5Vpx/1-2-c-classes).
     - Has midterms you can study off of, [here](https://web.stanford.edu/class/archive/cs/cs107/cs107.1258/exams/midterm.html).
+    - Book : https://openlibrary.org/books/OL2030445M/The_C_Programming_Language
 - CS109:
   - https://web.stanford.edu/class/cs109/ ; will take first in the sequence.
   - Notes:
