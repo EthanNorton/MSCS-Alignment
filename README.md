@@ -20,11 +20,13 @@ I have the goal of enrolling in the MSCS program.
 - CS161:
   - https://stanford-cs161.github.io/winter2025/ ; will take second.
   - [Algorithms](https://www.coursera.org/specializations/algorithms) - studying off this.
+  - [Example Homework problems](https://stanford-cs161.github.io/winter2025/homework/)
   - Notes:
     - Exam 1 template: https://web.stanford.edu/class/archive/cs/cs161/cs161.1236/Exams/SampleExam1/sample_midterm1_sols.pdf
     - Final template: https://web.stanford.edu/class/archive/cs/cs161/cs161.1236/Exams/SampleExam1/sample_final1.pdf
     - Other practices: https://web.stanford.edu/class/archive/cs/cs161/cs161.1182/exams.html
     - Prep: https://web.stanford.edu/class/archive/cs/cs161/cs161.1182/section.html
+    - Notes: https://web.stanford.edu/class/cs161/notes.pdf
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Program overview: https://www.cs.stanford.edu/masters-program-overview
 Further overview: https://cs.stanford.edu/degrees/mscs/programsheets/psguide2021.pdf
