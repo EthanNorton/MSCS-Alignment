@@ -4,7 +4,7 @@ I have the goal of enrolling in the MSCS program.
 4 pre-requisite classes to focus on: 
 
 - CS103:
-  - Attempted to waive due to earning grades in [Intro to Algorithms](https://siebelschool.illinois.edu/academics/courses/cs401-120248).
+  - Waived due to earning grades in [Intro to Algorithms](https://siebelschool.illinois.edu/academics/courses/cs401-120248).
 - CS107:
   - https://web.stanford.edu/class/cs107/ ; will take third.
     - https://web.stanford.edu/class/archive/cs/cs107/cs107.1258/calendar class notes.
