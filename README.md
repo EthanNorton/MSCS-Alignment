@@ -27,6 +27,8 @@ I have the goal of enrolling in the MSCS program.
     - Other practices: https://web.stanford.edu/class/archive/cs/cs161/cs161.1182/exams.html
     - Prep: https://web.stanford.edu/class/archive/cs/cs161/cs161.1182/section.html
     - Notes: https://web.stanford.edu/class/cs161/notes.pdf
+- CS 111:
+  - https://web.stanford.edu/class/cs111
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Program overview: https://www.cs.stanford.edu/masters-program-overview
 Further overview: https://cs.stanford.edu/degrees/mscs/programsheets/psguide2021.pdf
