@@ -19,6 +19,6 @@
      3. If X + Y are mutually exlusive, the join of E and F are 0, and E + F = E + F (no overlap).
  - Equally Likely Outcomes 
 
-## [Lecture 3]([https://web.stanford.edu/class/cs109/lectures/2_Combinatorics.pdf](https://web.stanford.edu/class/cs109/lectures/3_IntroProbability.pdf))
+## [Lecture 3](https://web.stanford.edu/class/cs109/lectures/3_IntroProbability.pdf)
 - Equally Likely Outcomes
 
