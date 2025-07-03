@@ -20,5 +20,12 @@
  - Equally Likely Outcomes 
 
 ## [Lecture 3](https://web.stanford.edu/class/cs109/lectures/3_IntroProbability.pdf)
+**study, a bit harder**
 - Equally Likely Outcomes
+-  Conditional Probability
+ - Level: hard, study chain rule
+- Intro to Independence
+
+
+## [Lecture 4](https://web.stanford.edu/class/cs109/lectures/4_Independence.pdf)
 
