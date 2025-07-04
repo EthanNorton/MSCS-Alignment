@@ -45,6 +45,7 @@
 - Fill out tricky questions
 
 # [Assignment1](https://web.stanford.edu/class/archive/cs/cs107/cs107.1258/assign1/) 
+- Possible study area
 
 
 
