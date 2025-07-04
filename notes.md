@@ -28,4 +28,8 @@
 
 
 ## [Lecture 4](https://web.stanford.edu/class/cs109/lectures/4_Independence.pdf)
+- Defining Sample Spaces
+- Start to practice examples from Lecture 1,2,3 to grasph further material.
+  - <img width="665" alt="Screenshot 2025-07-04 at 10 30 10 AM" src="https://github.com/user-attachments/assets/25c7b79c-ae78-4127-a780-3f5b7ae5a3b8" />
+
 
