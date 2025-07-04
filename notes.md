@@ -1,4 +1,6 @@
 # Lectures and other notes are below 
+<img width="666" alt="Screenshot 2025-07-04 at 10 53 59 AM" src="https://github.com/user-attachments/assets/42e134f1-2516-461f-b258-01fbec77fc86" />
+ - close to my current understanding, with finite math, before note previews. 
 
 ## [Lecture 1](https://web.stanford.edu/class/cs109/lectures/1_Welcome.pdf)
 
@@ -29,7 +31,23 @@
 
 ## [Lecture 4](https://web.stanford.edu/class/cs109/lectures/4_Independence.pdf)
 - Defining Sample Spaces
-- Start to practice examples from Lecture 1,2,3 to grasph further material.
+- Great example to start to practice examples from Lecture 1,2,3 to grasph further material.
   - <img width="665" alt="Screenshot 2025-07-04 at 10 30 10 AM" src="https://github.com/user-attachments/assets/25c7b79c-ae78-4127-a780-3f5b7ae5a3b8" />
+- Deeper into Indepence vs. Dependence
+- Chain rule for probabilities (needs practice)
+- Complements
+- De Morgan's Law
+- Also Helpful:
+  - <img width="634" alt="Screenshot 2025-07-04 at 10 44 22 AM" src="https://github.com/user-attachments/assets/3fd4db6c-d2c5-4ebb-a862-69ae0286f61b" />
+- Starts up **Random Variables**
+- Also intro to PMF(Probability Mass Function)
+
+ ## [Lecture 5](https://web.stanford.edu/class/cs109/lectures/5_Random%20Variables.pdf)
+
+- Discrete RVs (Random Variables)
+- Follows up on conditioning vs independence
+- Geometric Random Variables
+- Binomials and Bernuolli
+
 
 
